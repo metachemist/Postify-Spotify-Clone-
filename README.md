@@ -20,8 +20,6 @@
 
 • Backend: Node.js, Express.js
 
-• Database: MongoDB (or a suitable alternative)
-
 • API Integration: Spotify Web API (for accessing music data)
 
 
